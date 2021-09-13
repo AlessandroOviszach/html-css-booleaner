@@ -25,8 +25,17 @@
     padding-left: 8px;
 }
 
+table, th, td {
+    border-collapse: collapse;
+  }
 
+.column_size_1{
+    width: 20%;
+}
 
+.column_size_2{
+    width: 60%;
+}
 
 
 
